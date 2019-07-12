@@ -214,7 +214,7 @@ class App extends Component {
 
     const instructionLayout = (
       <div className="app-instruction">
-        <p>Allow Location Access or type city name/zip code in search area to get started.</p>
+        <p>Allow location access or type city name/zip code in search area to get started.</p>
       </div>
     );
 
